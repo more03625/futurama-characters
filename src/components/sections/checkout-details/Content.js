@@ -2,7 +2,6 @@ import React from 'react'
 import ShippingInfo from './ShippingInfo';
 import OrderSummary from './OrderSummary';
 import PageTitle from '../product-details/PageTitle';
-
 const Content = () => {
     return (
         <>
